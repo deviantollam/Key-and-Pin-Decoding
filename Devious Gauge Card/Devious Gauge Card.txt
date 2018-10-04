@@ -1,0 +1,94 @@
+
+
+- -- ----- ----------
+
+Schlage - key gauge measurements
+
+856 818 780 742 704 665 627 589 551 513 
+
+ 0   1   2   3   4   5   6   7   8   9
+
+
+
+Schlage - key pin sizes
+
+762 724 686 648 610 572 533 495 457 419
+
+ 9   8   7   6   5   4   3   2   1   0
+
+
+
+Schlage - mastering pin sizes
+
+ 76 114 152 191 220 267 305 343
+ 
+ 2   3   4   5   6   7   8   9  
+
+
+
+- -- ----- ----------
+
+Kwikset - key gauge measurements
+
+841 782 724 665 607 549 490
+
+ 1   2   3   4   5   6   7
+
+
+
+Kwikset - key pin sizes
+
+805 736 675 614 651 500 439
+
+ 7   6   5   4   3   2   1
+
+
+
+Kwikset - mastering pin sizes
+
+ 65 119 180 241 292 355
+
+ 1   2   3   4   5   6  
+
+
+
+
+- -- ----- ----------
+
+MasterLock - key gauge measurements
+
+705 665 625 590 550 515 475 440
+
+ 0   1   2   3   4   5   6   7  (Master Lock)
+
+
+
+AmericanLock - key gauge measurements
+
+725 685 645 605 565 525 485 445
+
+ 1   2   3   4   5   6   7   8  (American Lock)
+
+
+
+MasterLock/AmericanLock - key pin sizes
+
+561 523 483 444 404 366 325 284
+
+ 7   6   5   4   3   2   1   0  (Master Lock)
+
+ 8   7   6   5   4   3   2   1  (American Lock)
+
+
+
+MasterLock/AmericanLock - mastering pin sizes
+
+ 43  81 119 157 196 234 272 
+
+ 1   2   3   4   5   6   7  (Master Lock)
+
+ 2   3   4   5   6   7   8  (American Lock)
+
+
+
+
