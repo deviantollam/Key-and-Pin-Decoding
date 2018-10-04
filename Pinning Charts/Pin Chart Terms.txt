@@ -1,0 +1,4 @@
+EPD - effective plug diameter
+TFC - spacing to first cut
+BCC - spacing between cut centers
+MACS - maximum adjacent cut specification
